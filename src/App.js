@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
-import { GlobalStorage } from "./Context";
+import { GlobalStorage } from "./context/GlobalContext";
 import Routes from "./routes";
 
 import GlobalStyle from "./GlobalStyles";
